@@ -1,2 +1,13 @@
 # music_score_template
-楽譜のテンプレート (template files for music score)
+
+ Template files for music score.
+
+ 楽譜のテンプレートファイルまとめ。
+
+## Pages
+
+- [simple template](./music_score.template)
+
+## Microsoft Word
+
+- [TBD]()
